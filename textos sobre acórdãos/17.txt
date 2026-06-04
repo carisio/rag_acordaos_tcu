@@ -1,0 +1,30 @@
+# TCU avalia implementação da política de conectividade nas escolas públicas
+
+A inclusão digital nas escolas não se restringe ao acesso à internet, mas envolve desenvolver habilidades digitais nos alunos, garantir qualidade na conexão e incorporar a tecnologia ao processo de ensino e aprendizagem. Por isso, em recente auditoria, o #TCU avaliou a implementação da política de conectividade nas escolas públicas brasileiras. Confira!
+
+👉 Leia a íntegra da decisão:
+Acórdão 1082/2026 – Plenário | TC 008.035/2024-5
+
+## O que foi feito?
+
+O TCU avaliou a implementação da política de conectividade nas escolas públicas do Brasil. O objetivo foi verificar se as inicativas para levar internet e tecnologia às escolas de educação básica estão sendo bem conduzidas.
+
+## O que o TCU encontrou?
+
+- Ausência de um plano estruturado para implementação da política.
+
+- Baixa participação de estados, municípios e sociedade civil na política, fazendo com quea s decisões não reflitam as necessidades locais.
+
+- Falhas nos mecanismos de comunicação e transparência.
+
+- Falta de equipamentos, como computadores e tablets, para uso pedagógico.
+
+- Base de dados usada para monitorar a conectividade desatualizada e com incosistências.
+
+- Critérios para selecionar escolas beneficiadas não garantem equidade.
+
+- Falta de coordenação entre ações federais, com escolas recebendo mais de uma iniciativa e outras sem atendimento, além de falta de critérios claros de prioridade.
+
+## O que o TCU decidiu?
+
+O Tribunal fez determinações e recomendações para aprimorar a política de conectivade, incluindo mais integração entre programas, critérios mais claros para priorizar as escolas e melhor acompanhamento dos resultados.

@@ -1,0 +1,65 @@
+# TCU revisa entendimento sobre uso de prejuízo fiscal em transação
+
+O TCU (Tribunal de Contas da União), no Acórdão nº 990/2026-Plenário, proferido em 22 de abril de 2026, acolheu embargos de declaração apresentados pela Procuradoria-Geral da Fazenda Nacional e reformulou pontos relevantes de entendimento anterior acerca da utilização de prejuízo fiscal e base de cálculo negativa da CSLL nas transações tributárias disciplinadas pela Lei nº 13.988/2020.
+
+Ao fazê-lo, o TCU reconheceu expressamente que os descontos incidentes sobre o crédito tributário não se confundem, sob o ponto de vista jurídico, com os mecanismos legalmente admitidos para quitação do saldo remanescente da dívida, entre os quais se insere o aproveitamento desses créditos fiscais.
+
+A distinção é relevante porque afasta a interpretação segundo a qual a utilização de prejuízo fiscal e base negativa estaria automaticamente submetida aos mesmos limites percentuais aplicáveis às reduções negociais do crédito, preservando a lógica normativa desenhada pelo legislador para a transação tributária.
+
+## Ponto central: prejuízo fiscal não se confunde com desconto
+
+A controvérsia residia em saber se a utilização de créditos de prejuízo fiscal e base negativa da CSLL deveria ser tratada como mera extensão dos descontos concedidos em transação, submetendo-se, portanto, aos limites percentuais legais aplicáveis às reduções do crédito.
+
+O TCU afastou essa leitura. Reconheceu que há diferença estrutural entre
+
+1. Descontos incidentes sobre o crédito tributário, sujeitos aos limites previstos em lei; e
+
+2. Instrumentos de liquidação do saldo remanescente, entre os quais se insere o uso de prejuízo fiscal e base negativa.
+
+A conclusão de que o uso de prejuízo fiscal e base negativa possui disciplina própria e pode ser aplicado de forma complementar e sequencial após os descontos legalmente admitidos, observados os requisitos normativos.
+
+## Acerto institucional da decisão
+
+A decisão merece reconhecimento por pelo menos quatro razões:
+
+- Prestigia literalidade e arquitetura da Lei nº 13.988/2020
+
+O legislador separou conscientemente benefícios negociais de mecanismos de liquidação. Misturar ambas as categorias produziria distorção interpretativa e limitaria instrumento expressamente autorizado em lei.
+
+- Reforça lógica econômica da cobrança pública
+
+Há créditos classificados como irrecuperáveis ou de difícil recuperação cujo recebimento integral, por vias ordinárias, é improvável, moroso ou antieconômico. Nesses casos, a transação não representa renúncia simplista de receita, mas técnica racional de recuperação possível.
+
+O próprio acórdão reconhece que o uso do prejuízo fiscal, nesse contexto, viabiliza arrecadação que possivelmente não ocorreria por meios tradicionais.
+
+- Preserva segurança jurídica
+
+Empresas tomam decisões relevantes com base em editais, portarias e diretrizes oficiais. Alterações interpretativas abruptas fragilizariam confiança legítima e comprometeriam negociações em curso.
+
+- Valoriza soluções consensuais
+
+A litigiosidade tributária brasileira segue em patamares incompatíveis com eficiência estatal e competitividade empresarial. A transação tributária surgiu justamente para enfrentar esse passivo histórico.
+
+## Experiência prática confirma a importância do mecanismo
+
+A experiência prática confirma que inúmeras transações somente alcançaram resultado útil em razão da possibilidade de utilização de créditos de prejuízo fiscal e base negativa.
+
+Em diversos casos, a capacidade de pagamento da empresa justificava descontos máximos previstos em lei, mas ainda remanescia saldo impossível de ser quitado em dinheiro sem comprometer a continuidade operacional.
+
+Foi justamente o uso desses créditos que permitiu equalizar a equação econômica do acordo e viabilizar sua assinatura.
+
+Sem esse mecanismo, muitas negociações teriam fracassado, com prejuízo simultâneo ao contribuinte e ao erário.
+
+## Nem liberalidade, nem descontrole
+
+A decisão do TCU não chancela uso indiscriminado do instituto. Ao contrário, o acórdão enfatiza a necessidade de governança, critérios técnicos verificáveis, adequada aferição da capacidade de pagamento, classificação correta da recuperabilidade do crédito e controles confiáveis.
+
+## Conclusão
+
+O Acórdão nº 990/2026 do TCU representa importante amadurecimento institucional.
+
+Ao reconhecer que prejuízo fiscal e base negativa não se confundem com descontos negociais, o Tribunal fortalece a segurança jurídica, respeita a modelagem legal da transação tributária e preserva mecanismo que já demonstrou utilidade concreta para arrecadação e regularização fiscal.
+
+Em matéria tributária complexa, boas decisões são aquelas que conciliam legalidade, racionalidade econômica e consequência prática.
+
+Foi exatamente isso que ocorreu aqui.

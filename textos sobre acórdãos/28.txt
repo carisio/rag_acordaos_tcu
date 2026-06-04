@@ -1,0 +1,35 @@
+# Auditoria avalia ações para transparência em contratos de concessão de rodovias
+
+## Resumo
+
+- Fiscalização avaliou como a ANTT divulga informações sobre concessões rodoviárias e identificou necessidade de ampliar clareza, padronização e acessibilidade dos dados.
+
+- Auditoria apontou que conteúdos técnicos e formatos sem padrão de dados abertos dificultam o acompanhamento das obrigações contratuais.
+
+- TCU determinou a divulgação das bases de dados de fiscalização e cumprimento contratual e recomendou ampliar a oferta de informações em formato aberto e atualizado.
+
+- O Tribunal de Contas da União (TCU) realizou fiscalização para avaliar o conjunto de ações, sistemas, normas e práticas adotadas pela Agência Nacional de Transportes Terrestres (ANTT) na transparência dos contratos de concessão de rodovias federais.
+
+## Matéria
+
+O objetivo é garantir que as informações sobre as obrigações das empresas que administram as rodovias sejam divulgadas de forma clara, acessível e atualizada, para que a sociedade acompanhe e compreenda o que está sendo executado.
+
+A ampliação da transparência contribui para o aprimoramento dos serviços prestados nas rodovias e fortalece o controle social.
+
+A fiscalização verificou dois pontos principais: primeiro, se a ANTT está divulgando as informações de forma completa, atualizada e dentro dos padrões de dados abertos; segundo, se esses conteúdos são apresentados de maneira simples, para que o cidadão comum acesse e utilize os dados.
+
+O TCU encontrou oportunidades de melhoria na forma como a ANTT divulga as informações. Por exemplo, detalhes sobre os investimentos previstos nos contratos de concessão são apresentados em formatos que não seguem os padrões de dados abertos. Alguns dos documentos apresentados, por exemplo, são os Programas de Exploração da Rodovia (PER), considerados técnicos e elaborados para uso interno, o que dificulta o entendimento e o acesso pelo público em geral. Esse cenário cria barreiras ao acompanhamento das ações.
+
+Além disso, o site da ANTT pode aprimorar a organização e a acessibilidade. As informações não estão centralizadas, o que obriga o usuário a navegar por diversas páginas e links diferentes. Também há falta de padronização entre as páginas das concessões, com diferenças na estrutura dos conteúdos e nos tipos de documentos disponibilizados. Isso torna a navegação confusa e dificulta o acesso às informações.
+
+Por fim, também foi constatada a ausência de transparência sobre as comissões tripartites, grupos responsáveis por acompanhar as concessões. A ANTT não disponibiliza informações completas sobre essas comissões, como atas de reuniões, relatórios, cronogramas atualizados e detalhes dos processos administrativos. Essa lacuna restringe o acesso do público às decisões e atividades dessas comissões.
+
+Em consequência dos trabalhos, o TCU determinou à ANTT que, em 180 dias, dê publicidade à existência das bases de dados sobre a fiscalização e o acompanhamento do cumprimento das obrigações contratuais das concessionárias e divulgue, em formato acessível, as informações sobre as obrigações contratuais previstas nos PER.
+
+O Tribunal também recomendou à ANTT que disponibilize, em dados abertos, a base de dados atualizada de investimentos e obrigações, ainda que parcialmente e de forma incremental.
+
+O relator do processo é o ministro Jorge Oliveira.
+
+### SERVIÇO
+
+Leia a íntegra da decisão: Acórdão 2846/2025 - Plenário

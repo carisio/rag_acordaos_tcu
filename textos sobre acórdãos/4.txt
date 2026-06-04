@@ -1,0 +1,45 @@
+# É possível responsabilizar parecerista que desconsidera jurisprudência do TCU?
+ 
+Constou do boletim de jurisprudência número 338 do TCU o acórdão 13.375/2020 (prolatado pela 1ª Câmara sob a relatoria do ministro Benjamin Zymler) no qual restou consignado que "o parecer jurídico que não esteja fundamentado em razoável interpretação da lei, contenha grave ofensa à ordem pública ou deixe de considerar jurisprudência pacificada do TCU pode ensejar a responsabilização do seu autor, se o ato concorrer para eventual irregularidade praticada pela autoridade que nele se embasou".
+
+Em outras palavras, o aludido entendimento da Corte de Contas imputa a inobservância da sua jurisprudência pacificada como um erro grosseiro do parecerista capaz de ensejar a responsabilização deste último.
+
+O problema é que, à exceção dos enunciados de súmulas, existe uma jurisprudência pacificada no TCU?
+
+Vejamos um exemplo: no boletim de furisprudência 247/2019, foram destacadas duas posições diametralmente opostas adotadas pelo Plenário do TCU numa mesma sessão ordinária ocorrida no dia 28/11/2018, a saber:
+
+"Não é necessário, para a decretação de indisponibilidade de bens (artigo 44, § 2º, da Lei 8.443/1992), realizar a individualização da conduta e do débito atribuível a cada responsável, pois a medida cautelar tem caráter precário, sendo adotada a partir de cognição sumária" (Acórdão 2.734/2018).
+
+"A adoção da medida cautelar de indisponibilidade de bens (artigo 44, § 2º, da Lei 8.443/1992) exige que as condutas e as quantias atinentes ao prejuízo ao erário que está sendo apurado estejam, ainda que em cognição inicial, individualizadas e quantificadas para cada responsável" (Acórdão 2.757/2018).
+
+Além da dúvida acerca da existência de uma jurisprudência de fato pacificada no âmbito do TCU, havemos de convir que, em que pese na prática não ser raro encontrar órgãos e entidades (inclusive de estados, DF e municípios) incorporarem as razões de decidir do TCU tomando-as como se fossem enunciados abstratos e normativamente vinculantes, as decisões daquela Corte de Contas repousam sobre a análise de casos concretos, devendo ser exercido um elevado juízo de racionalidade para de fato imputar ao parecerista que desconsiderou algum entendimento do TCU que deveria ser por ele mencionado quando do opinativo.
+
+Outra questão que merece reflexão: e se esta jurisprudência "pacificada" do TCU encontrar vozes dissonantes na melhor doutrina? Mesmo assim cabe responsabilização do parecerista? Ainda assim estaríamos diante de uma imprudência temerária ou de uma culpa grave que caracterizaria o cometimento de um erro grosseiro?
+
+Vamos a mais um caso prático: alguns autores (como Ivan Barbosa Rigolin, Murilo Queiroz Melo Jacoby Fernandes, Angélica Petian e Renila Lacerda Bragagnoli) defendem que, no caso das estatais, a inexigibilidade prevista no inciso II do artigo 30 da Lei nº 13.303/2016 se desenha apenas com a mera contratação de serviço técnico especializado por meio de profissionais ou empresas de notória especialização, sem que o serviço precise ser qualificado como singular.
+
+Pois bem. Em que pese a ausência expressa no texto do Estatuto das Estatais do requisito da singularidade do serviço para permitir contratação direta por inexigibilidade, o plenário do TCU decidiu no Acórdão 2.436/2019 e, mais recentemente, no Acórdão 2.761/2020, que o serviço há de ser singular para ser contratado por inexigibilidade no âmbito das empresas públicas e sociedades de economia mista.
+
+Mesmo nesse caso, alguém que discorde dos Acórdãos 2.436/2019 e Acórdão 2.761/2020 do TCU invocando as lições de Ivan Barbosa Rigolin, Murilo Queiroz Melo Jacoby Fernandes, Angélica Petian e Renila Lacerda Bragagnoli estaria cometendo um erro grosseiro?
+
+Ora, se o parágrafo 2º do artigo 1º da Lei nº 13.869/2019 dispõe que "a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade", por que esta mesma divergência seria caracterizada como um erro grosseiro capaz de responsabilizar o parecerista?
+
+Este posicionamento contido no Acórdão 13.375/2020 pode inclusive ter severas consequências em quem não está sob a tutela fiscalizatória do TCU, vez que as decisões daquela Corte de Contas, conforme até já mencionamos aqui, são usadas (e inclusive cobradas) com frequência pela Administração Pública e pelos órgãos de controle dos entes subnacionais.
+
+Outro caso prático ilustra quão problemática pode ser a aplicação deste entendimento contido no Acórdão 13.375/2020 do TCU: em Pernambuco, o Tribunal de Contas local, em sede de consulta (Acórdão TC nº 1.446/17 — Pleno, Processo TCE-PE nº 1.208.764-6, relator: conselheiro Marcos Loreto), entendeu em 2017 que as contratações diretas de escritório de advocacia por inexigibilidade prescindem da demonstração de singularidade, um entendimento que, como se vê, é contrário à nova jurisprudência pacífica do TCU (no caso os já citados Acórdãos 2.436/2019 e Acórdão 2.761/2020).
+
+Veja, a rigor, um parecerista de um órgão ou entidade que seja jurisdicionado do TCE/PE, exceto em casos que envolvam verbas federais, deve fazer menção ao entendimento do TC local e não ao entendimento do TCU.
+
+Mas, agindo assim, estará o parecerista indene de ser responsabilizado?
+
+A resposta é simples: não. Infelizmente basta algum órgão de controle invocar o Acórdão 13.375/2020 do TCU para que o nosso hipotético parecerista seja acusado de ter praticado um erro grosseiro. E quem conhece minimamente a práxis dos órgãos de controle sabe que esse risco não pode ser desprezado.
+
+O pior é que este cenário de apreensão trazido pelo Acórdão 13.375/2020 do TCU tende a se agravar com a futura Nova Lei de Licitações, uma vez que o Projeto de Lei nº 4.253/2020, que seguiu para sanção presidencial após sua aprovação pelo Senado, prevê em seu artigo 172 que "os órgãos de controle deverão orientar-se pelos enunciados das súmulas do Tribunal de Contas da União relativos à aplicação desta lei, de modo a garantir uniformidade de entendimentos e a propiciar segurança jurídica aos interessados".
+
+Ou seja, sem base constitucional, a Nova Lei de Licitações criou uma hierarquia até então inexistente dentro do sistema brasileiro de controle externo, na qual os Tribunais de Contas dos entes subnacionais se verão obrigados a aplicar os entendimentos sumulados do TCU.
+
+É óbvio que essa inovação legislativa irá repercutir nos pareceristas dos órgãos e entidades dos Estados, DF e municípios que terão de atentar para a observância das súmulas do TCU, sob pena de incorrerem no erro grosseiro indicado no aqui multicitado Acórdão 13.375/2020.
+
+O Acórdão 13.375/2020 do TCU ignora por completo o fato de que nos moldes do artigo 28 da LINDB só há de se falar em responsabilização por erro grosseiro do parecerista em caso de culpa grave, imprudência temerária, negligência extremada, incúria ou desídia.
+
+Em razão de tudo o que foi aqui exposto, é claramente uma posição extrema a decisão de responsabilizar um parecerista imputando-lhe a prática de erro grosseiro sob a alegação de que ele deixou de considerar a jurisprudência pacificada do TCU, devendo, por isso o Acórdão 13.375/2020 ser aplicado cum grano salis e não de forma indistinta.

@@ -1,0 +1,13 @@
+# Transação tributária em xeque: decisão do TCU pode travar uso de prejuízo fiscal e abalar empresas com grandes passivos
+
+Em recente decisão proferida pelo Tribunal de Contas da União, pelo Acórdão n.º 2.670/2025, houve uma revolução quanto à interpretação do uso de prejuízo fiscal e base de cálculo negativa (PF/BCN) em transações tributárias, equiparando esses créditos a uma forma de renúncia fiscal que deve respeitar os limites legais de desconto.
+
+O TCU determina que o resultado econômico global, que compreende a soma de parcelas em dinheiro e liquidação com PF/BCN, não pode exceder 65% de redução do valor negociado nem alcançar o principal do tributo, submetendo os créditos aos tetos da Lei n.º 13.988/2020 como se fossem abatimentos diretos. Essa visão tensiona o modelo normativo da lei, que via o uso de PF/BCN como mecanismo de adimplemento vinculado à lógica da tributação do lucro, e não como remissão autônoma.
+
+A PGFN reagiu com nota oficial, discordando da qualificação jurídica do TCU e defendendo que PF/BCN não configura desconto adicional, mas instrumento legítimo de quitação. Por cautela, porém, o órgão suspendeu provisoriamente propostas ou aceitações de transações em que a combinação de descontos e créditos gere redução superior a 65% ou atinja o principal, alinhando-se ao acórdão enquanto aguarda reexame. Essa medida prática restringe sensivelmente o espaço para PF/BCN, especialmente em grandes dívidas e programas de adesão, tornando muitas propostas previamente estruturadas inviáveis e incentivando contribuintes a retomar litígios em vez de acordos consensuais.
+
+Os impactos recaem com gravidade sobre empresas em recuperação judicial, que dependem da transação para obter regularidade fiscal e continuidade operacional. A súbita mudança de parâmetros gera insegurança jurídica, afeta a previsibilidade regulatória e pode frustrar receitas futuras ao esvaziar PF/BCN como ferramenta de composição.
+
+O caso, inclusive, acirra o debate institucional sobre os limites do controle do TCU sobre políticas de cobrança da PGFN e a aplicação da Lei de Responsabilidade Fiscal, opondo o risco de renúncia excessiva à defesa de mecanismos que viabilizam recuperação de créditos.
+
+Notadamente, a interpretação representa retrocesso na política de transação, com potencial para reconfigurar negociações em curso e demandar ajustes legislativos.

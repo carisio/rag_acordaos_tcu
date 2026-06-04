@@ -1,0 +1,29 @@
+# TCU constata baixa execução de recursos do FGTS em saneamento e infraestrutura
+
+Auditoria no FGTS buscou avaliar, no período de 2020 a 2024, se os recursos estão sendo usados de forma eficiente, adequada e com bons resultados para a sociedade.
+
+## Resumo
+
+- O Tribunal de Contas da União realizou auditoria para verificar como a Caixa Econômica Federal está aplicando os recursos do FGTS.
+
+- Entre as constatações, está a execução orçamentária abaixo do planejado em áreas como saneamento básico, infraestrutura urbana e programas de apoio.
+
+## Matéria
+
+O Tribunal de Contas da União (TCU) realizou auditoria para verificar como a Caixa Econômica Federal está aplicando os recursos do Fundo de Garantia do Tempo de Serviço (FGTS), formado por depósitos mensais feitos pelos empregadores em nome dos trabalhadores e destinados, além da proteção ao trabalhador, ao financiamento de investimentos em saneamento básico, infraestrutura urbana e programas de habitação. O valor dos recursos fiscalizados alcançou a cifra de R$ 743 bilhões. A auditoria focou em quatro pontos principais, analisando o período de 2020 a 2024: se o dinheiro está sendo direcionado corretamente, se os investimentos são bem analisados e geridos em termos de risco, se os resultados são monitorados para proteger o patrimônio dos trabalhadores e gerar impacto social, e se as informações são bem registradas e divulgadas.
+
+Os resultados da auditoria mostraram que a execução orçamentária ficou abaixo do planejado nas áreas de saneamento básico, infraestrutura urbana e programas de apoio. Dos R$ 28 bilhões destinados ao setor de infraestrutura urbana (programas Pró-Cidades e Pró-Transporte) com recursos do FGTS nesse período, somente R$ 3,4 bilhões foram utilizados, dificultando o alcance dos objetivos de melhorar a mobilidade e a qualidade de vida nas cidades.
+
+No programa Saneamento para Todos, apenas 46,5% dos R$ 24 bilhões previstos foram utilizados, com a maior parte destinada ao Sudeste. "Chama a atenção o fato de as regiões norte e nordeste terem sido as mais impactadas por esse descompasso, justamente aquelas com maior necessidade de universalização dos serviços de saneamento e de investimento para redução das desigualdades regionais", comentou o relator do processo, Ministro Jorge Oliveira. De 2020 a 2024, foram previstos cerca de 33% dos recursos para essas regiões, sendo que esse percentual cai para 20% quando se verificam os valores efetivamente realizados.
+
+A baixa execução de recursos deve-se a diversos fatores, como a pouca procura devido a requisitos de crédito pelo potencial tomador do empréstimo, os limites de endividamento de estados e municípios, a maior atratividade de recursos não onerosos do governo federal e outras exigências, como garantias e a necessidade de constituição de entidades associativas. Esses entraves acabam por desvirtuar o objetivo do fundo e comprometer a execução das políticas públicas associadas aos programas de investimento.
+
+A auditoria também apontou baixa execução nos programas de apoio financiados com recursos do FGTS - Pró-Moradia, FIMAC e Carta de Crédito Associativa (CCA). Entre 2020 e 2024, esses programas tiveram sua execução comprometida, seja pela ausência de dotação orçamentária, seja pela aplicação de recursos abaixo do previsto. No período, estavam planejados originalmente R$ 7,2 bilhões em empréstimos, mas os créditos efetivamente concedidos somaram apenas R$ 780,6 milhões, o que corresponde a cerca de 10,8% do valor programado.
+
+O trabalho ainda apontou riscos à liquidez do FGTS, ou seja, à capacidade do fundo de ter recursos disponíveis para pagar suas obrigações quando necessário. A distribuição de parte significativa dos resultados aos trabalhadores, iniciada em 2019, somada à decisão do Supremo Tribunal Federal que garantiu a correção dos saldos pelo IPCA, aumentou as saídas de recursos do fundo sem que o patrimônio líquido crescesse no mesmo ritmo. Entre 2020 e 2024, os ativos e passivos do FGTS cresceram cerca de R$ 200 bilhões, enquanto o patrimônio líquido aumentou apenas cerca de R$ 5 bilhões. Esse desequilíbrio pode dificultar o atendimento de um aumento repentino na demanda por saques, elevando o risco de o fundo não dispor de recursos suficientes em determinados momentos.
+
+Ao final, o TCU recomendou ao Conselho Curador do FGTS que, na análise das propostas orçamentárias do fundo, avalie iniciativas do Ministério das Cidades voltadas a tornar mais atrativos os investimentos em saneamento básico, com atenção especial às regiões Norte e Nordeste, que concentram os maiores déficits de esgotamento sanitário e tratamento de esgotos, bem como a outras localidades com carência desses serviços. O Tribunal também recomendou a análise de medidas para estimular investimentos em infraestrutura urbana, especialmente nas cidades e regiões metropolitanas.
+
+### SERVIÇO
+
+Leia a íntegra da decisão: Acórdão 270/2026-Plenário

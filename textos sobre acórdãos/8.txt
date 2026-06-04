@@ -1,0 +1,39 @@
+# Cooperação pela metade: o veto do TCU ao prejuízo fiscal e a insegurança jurídica
+
+O princípio da cooperação está na ordem do dia quando se fala em reforma tributária e em resolução consensual de litígios fiscais. Para além dos mecanismos de autocomposição estimulados pela Fazenda Pública nos últimos anos (como as transações tributárias regulamentadas pela Lei nº 13.988/20), a Emenda Constitucional nº 132/2023 introduziu, de forma expressa, a “cooperação” como norma principiológica do sistema constitucional tributário [1].
+
+Desde já, é importante destacar que a cooperação não se aplica apenas à relação existente entre os contribuintes e a administração pública. Tal princípio deverá ser observado a três níveis diferentes: na relação entre Fisco e contribuinte, pautada pela confiança e redução de litigiosidade; na relação contribuinte-contribuinte, que visa à concorrência leal e a isonomia; e, crucial para a análise do atual cenário, na relação Fisco-Fisco (ou intra-administrativa). É nesta última dimensão que reside o dever de coerência institucional, exigindo que os diversos órgãos do Estado atuem de forma harmônica e não contraditória.
+
+Todavia, o estímulo dado pelo ordenamento jurídico em favor de uma visão mais cooperativa não vem se desenrolando sem certos percalços. É sob essa lente que deve ser analisado o recente acórdão nº 2670/2025 do Tribunal de Contas da União (TCU), que limitou a utilização de prejuízo fiscal e de base de cálculo negativa para o abatimento das dívidas em transações fiscais.
+
+## Prejuízo fiscal e base de cálculo negativa
+
+No entendimento do TCU, a utilização do prejuízo fiscal e da base de cálculo negativa deve estar limitada (em conjunto com outros descontos) ao percentual de redução de 65% da dívida transacionada, e, ademais, não deve incidir sobre o valor do principal do tributo. Anteriormente, a utilização do prejuízo e da base negativa não eram computados dentro da limitação legal de 65% prevista no artigo 11, § 2º, II, da Lei nº 13.988/20 [2].
+
+Em resposta, a Procuradoria-Geral da Fazenda Nacional (PGFN) pronunciou-se sobre o tema afirmando que discorda das conclusões do TCU, mas que, ao menos por ora, observará as recomendações daquele órgão. Esse embate revela um momento de inflexão na interpretação dada pelo Estado acerca do vetor cooperativo apontado pela Constituição e pelos demais atos normativos editados nos últimos anos.
+
+O Direito Tributário vive uma mudança profunda de mentalidade. Abandonamos a velha premissa do “jogo de soma zero”, no qual o êxito do Fisco dependia do prejuízo do contribuinte, para adotar uma postura de consensualidade e resultado.
+
+Sob essa perspectiva, dá-se ao Fisco a oportunidade de perseguir créditos que, de outro modo, seriam de recuperação difícil ou remota pela via contenciosa e, ao mesmo tempo, dá-se ao contribuinte a oportunidade de autorregularização e pagamento negociado e controlado de suas dívidas.
+
+## Atuação do princípio da cooperação
+
+Nesse novo cenário, o princípio da cooperação atua como uma bússola que deve orientar não apenas a relação externa (Fisco-Contribuinte), mas a própria coerência interna do Estado (Fisco-Fisco).
+
+O recente episódio de desentendimento entre Procuradoria-Geral da Fazenda Nacional (PGFN) e TCU a respeito da utilização de prejuízo fiscal e base de cálculo negativa nas transações fiscais revela um descompasso na visão que os próprios órgãos da administração pública têm a respeito do “caminho” de consensualidade (na medida do possível) escolhido pelo ordenamento jurídico para pautar as relações tributárias.
+
+Enquanto a reforma tributária aponta para a cooperação e simplificação, o TCU baseou sua decisão em uma postura ultra protetiva do que ele interpreta, de antemão, como sendo o patrimônio do erário público em uma relação de contraposição aos interesses de negociação do contribuinte.
+
+A premissa que embasa essa perspectiva é o ceticismo de que toda “negociação” é, não uma oportunidade mútua ao Fisco e ao contribuinte, mas sim uma benesse que se confere ao contribuinte em detrimento do erário. Tem-se aí, novamente, a volta da visão da relação Fisco-Contribuinte como um jogo de soma zero no qual uma das partes tem de perder.
+
+## Atuação do TCU na fiscalização
+
+Embora seja plenamente entendível que o TCU, como órgão de função fiscalizatória e corretiva em questões orçamentárias e fiscais, adote uma postura mais conservadora nesses temas, deve-se ter em conta que também o TCU faz parte do sistema constitucional, e, portanto, também ele deve se atentar à direção para a qual apontam os vetores principiológicos da Constituição. Isso é especialmente verdade em situações nas quais a imposição de limitações muito severas a mecanismos consensuais de resolução de litígios pode resultar na própria inviabilização desses institutos.
+
+Em último caso, é de particular preocupação o fato de a administração pública não conseguir atuar de forma uniforme frente aos jurisdicionados. A divergência repentina entre TCU e PGFN frustra as expectativas legítimas dos contribuintes, que até então, utilizavam base de cálculo negativa e do prejuízo fiscal sem as limitações propostas pelo TCU; viola a proteção à confiança e posiciona o instituto da transação fiscal em uma zona de insegurança jurídica, o que é prejudicial para o sucesso desse mecanismo autocompositivo.
+
+A reforma tributária prometeu um novo horizonte de cooperação, mas de nada adianta modernizar a Constituição se a prática administrativa permanece arcaica e fragmentada. Enquanto a incoerência institucional persistir, com o Estado lutando contra sua própria sombra, a transação tributária corre o risco de deixar de ser uma solução eficiente para se tornar uma armadilha de insegurança jurídica.
+
+[1] Nos termos da redação dada ao texto constitucional pela referida Emenda Constitucional: Art. 145. “A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos”: (…) “§ 3º O Sistema Tributário Nacional deve observar os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente.”
+
+[2] Art. 11. A transação poderá contemplar os seguintes benefícios: (…) § 2º É vedada a transação que: (…) II – implique redução superior a 65% (sessenta e cinco por cento) do valor total dos créditos a serem transacionados;”.

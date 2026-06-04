@@ -1,0 +1,30 @@
+# TCU aponta irregularidades em contratações públicas e destaca avanço do Alice 360 com IA
+
+O TCU realizou acompanhamento das licitações e contratações realizadas no âmbito da Administração Pública Federal, referentes ao período de junho de 2025 a março de 2026.
+
+O trabalho realizado envolveu a análise de conformidade de licitações e contratações diretas, utilizando ferramentas tecnológicas para identificar riscos e potenciais irregularidades, com dados obtidos através de várias fontes como o Portal Nacional de Contratações Públicas (PNCP), o Compras.gov.br, notícias jornalísticas e o Diário Oficial da União (DOU).
+
+## Quais foram os achados identificados?
+
+A fiscalização identificou irregularidades como fragilidades no planejamento das contratações e na realização de pesquisa de preços, com casos de sobrepreço e inconsistências nos procedimentos licitatórios, além da baixa qualidade dos dados e metadados inseridos nos sistemas oficiais, como o Portal Nacional de Contratações Públicas (PNCP) e o Compras.gov.br, e falhas na definição de preços e quantitativos, o que comprometeu a confiabilidade das estimativas de custos das contratações.
+
+Em relação a essa má qualidade de dados e das descrições dos objetos inseridos em plataformas oficiais, o relator apontou que:
+
+
+“A utilização de termos genéricos ou inadequados para descrever bens e serviços impede uma comparação justa entre os preços praticados e os valores de mercado, além de dificultar o controle social. Essa imprecisão técnica muitas vezes é acompanhada por contradições internas nos editais, de forma que o termo de referência apresenta exigências ou quantitativos divergentes daqueles constantes no corpo principal do documento convocatório.”
+
+No entanto, essas irregularidades foram objeto de determinação expedida no Acórdão 1719/2025 – do Plenário e sua correção vem sendo monitorada pelo TCU.
+
+## Ponto positivo e aprimoramento de IA pelo TCU
+
+Na decisão, o relator destacou o avanço na ferramenta de análise automatizada de contratações Alice 360, com a incorporação de inteligência artificial (IA) e de métricas estatísticas, o que permite identificar irregularidades mesmo em situações nas quais os dados são imprecisos:
+
+“As evoluções incrementais já implementadas no Alice 360 incluem a transição das telas de consulta para sistemas baseados em Modelos de Linguagem de Grande Escala (LLM). Inicialmente focado em cálculos de desvios de mercado por meio de métodos estatísticos, o projeto evoluiu para o uso intensivo de IA para capturar distorções complexas e identificar itens corretamente, mesmo em contextos de descrições precárias.” (Grifamos.)
+
+Apontou, ainda, que “a utilização de inteligência artificial pelo TCU é essencial para conferir celeridade e eficácia ao controle externo” e que o Tribunal planeja integrar a Alice 360 com o Sistema Compras, visando ao aprimoramento do controle das contratações públicas.
+
+Nesse sentido, o relator destacou a importância da coordenação e integração das iniciativas tecnológicas para evitar desperdício de esforços e sobreposição de funções, tornando imperativo que as ferramentas sejam integradas e as metodologias uniformizadas.
+
+Por fim, apontou que a continuidade desse trabalho de acompanhamento, aliada a uma governança centralizada das ferramentas automatizadas, é essencial para manter a eficácia na detecção de irregularidades e na geração de benefícios financeiros reais para a Administração Pública. Nesse sentido, destacou que a próxima edição dessa fiscalização, que vai analisar o período de 2026/2027, já foi autorizada pelo Tribunal.
+
+Fonte: TCU, Acórdão nº 1.145/2026 – Plenário, Rel. Min. Jorge Oliveira, j. em 06.05.2026.

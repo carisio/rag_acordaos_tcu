@@ -1,0 +1,74 @@
+# Pesquisa acadêmica via pedido de informação a instituições de ensino e a não generalização do Acórdão 1.087/TCU
+
+As instituições públicas de ensino superior têm a atividade de pesquisa como atividade finalística e essencial de sua existência. Contudo, nos últimos tempos, uma novidade quanto à forma de obtenção de dados tem se tornado comum, trazendo consigo consideráveis discussões. Trata-se do uso do Serviço de Informação ao Cidadão (SIC) como canal para o envio de questionários de pesquisa, bem como de solicitações de informações variadas.
+
+A experiência prática demonstra que muitos desses pedidos podem envolver coleta de opiniões pessoais de gestores e/ou operadores dos temas administrativos, também podem ser requeridos conjuntos de informações ainda não organizadas ou, em alguns casos, não organizada conforme solicitado, dentre outras peculiaridades.
+
+A discussão, já recorrente, foi acrescida do teor do acórdão nº 1087/2026 (TC 005.927/2026-9), do Tribunal de Contas da União (TCU). Trata-se de pedido de acesso à informação no qual o requerente “pleiteou o fornecimento de planilha, em formato aberto, contendo nome completo, CPF, cargo e dados da respectiva entidade (nome e CNPJ) de um amplo universo de gestores públicos”.
+
+Em resposta, o tribunal negou o acesso e apresentou, dentre suas justificativas, a alegação de que “O direito à transparência, embora pilar do Estado democrático de Direito, não se confunde com o dever de a administração pública atuar como assessoria de pesquisa ou central de processamento de dados para atender a interesses individuais, por mais nobres que sejam as intenções de controle social manifestadas”.
+
+Rapidamente, diversas postagens em redes sociais enfatizaram a não necessidade de atender pedidos relacionados às pesquisas, pois não estariam englobados no direito de acesso a produção de dados sob medida para o solicitante.
+
+No entanto, o referido acórdão não pode ser utilizado como fundamento para a negativa automática de pedidos de acesso à informação vinculados à pesquisa acadêmica, sob pena de afronta aos princípios estruturantes da própria Lei de Acesso à Informação (LAI).
+
+## Risco das interpretações generalizantes
+
+Embora seja legítimo reconhecer a existência de abusos ou excessos em determinados pedidos formulados com finalidade acadêmica, tais situações não autorizam soluções generalizantes incompatíveis com a legislação vigente. Diante de um pedido excessivamente amplo, a resposta administrativa não precisa oscilar entre um ‘sim’ que resulte em colapso operacional ou um ‘não’ com risco de ilegalidade.
+
+Há casos concretos em que instituições públicas enfrentam demandas informacionais excessivamente amplas, desproporcionais ou operacionalmente inviáveis. Contudo, a própria LAI e seu Decreto regulamentador (7.724/2012) já oferecem mecanismos para lidar com essas situações, incluindo:
+
+– necessidade de delimitação objetiva do pedido;
+– impossibilidade de produção de informação inexistente;
+– proteção de dados pessoais e informações sigilosas;
+– tratamento de pedidos desarrazoados;
+– observância da proporcionalidade administrativa.
+
+Assim, o problema não reside na finalidade acadêmica do pedido, mas eventualmente em sua forma, extensão ou operacionalização prática.
+
+Negar automaticamente pedidos associados à pesquisa acadêmica produziria efeitos preocupantes para o ambiente democrático e científico, especialmente em instituições cuja missão constitucional envolve exatamente a promoção da pesquisa, da ciência e da circulação do conhecimento.
+
+Ademais, não é irrelevante relembrar que a Lei Federal nº 12.527/2011 estabelece que não existe a necessidade de motivação para os pedidos de acesso à informação (artigo 10, § 3º, da LAI). Tal diretriz constitui elemento central da arquitetura normativa da LAI, justamente para impedir discricionariedades indevidas por parte da administração pública.
+
+A lógica é simples: o direito de acesso recai sobre a natureza pública da informação, e não sobre a identidade, interesse ou finalidade do solicitante. O Estado não deve avaliar se a razão, quando apresentada, é “nobre”, “adequada”, “acadêmica”, “comercial” ou “pessoal”. O foco deve permanecer sobre a informação requerida e sobre eventual incidência de hipóteses legais de restrição.
+
+Nesse sentido, a utilização da motivação declarada pelo cidadão como fundamento para indeferimento representa risco evidente de inversão lógica da LAI. Ainda que o requerente espontaneamente informe tratar-se de pesquisa acadêmica — prática relativamente comum nos direcionamentos de pedidos de acesso à informação para universidades públicas e institutos federais — isso não transforma a finalidade em requisito de admissibilidade da demanda informacional.
+
+Muitas vezes, os cidadãos, por serem pesquisadores, informam a natureza acadêmica da solicitação justamente por acreditarem que universidades públicas e instituições federais compreenderão melhor o contexto da demanda, facilitando o tratamento institucional do pedido. Tal prática social não pode ser interpretada como autorização para tratamento jurídico diferenciado ou restritivo.
+
+O teor do acórdão não pode ser interpretado como impeditivo quanto ao formato de disponibilização das informações e, em determinados casos, nem mesmo quanto à própria reunião de informações. É relevante lembrar que a LAI tem como princípio a disponibilidade, isto é, “qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados” (artigo 3º VII), já o artigo 8º referencia que os sítios eletrônicos dos órgãos devem possibilitar a “gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a facilitar a análise das informações”.
+
+Tais disposições, dentre outras, destacam que a informação deve, sempre que possível, estar em formato aberto, facilitando a sua utilização pelo solicitante. Assim, um pedido que manifeste a necessidade de disponibilização em formato aberto não deve ser considerado, de antemão, desproporcional. O mesmo raciocínio se aplica a determinadas consolidações que, em muitos casos, já deveriam estar implementadas, por serem essenciais ao suporte de decisões gerenciais básicas do órgão como, por exemplo, o número de projetos de pesquisa e extensão por grande área e por ano.
+
+## Necessária análise caso a caso
+
+A interpretação mais adequada do Acórdão nº 1.087/2026 reside em verificar os contornos do caso a que ele se aplicou, e assim deve ser para os pedidos de informação. É imperioso o aperfeiçoamento institucional da análise qualitativa dos pedidos, e não na criação de uma vedação abstrata relacionada à pesquisa acadêmica.
+
+A análise administrativa deve permanecer centrada em questões objetivas:
+– a informação é pública?
+– está disponível na instituição?
+– há hipótese legal de restrição?
+– exige efetiva produção de informação?
+– há desproporcionalidade operacional efetiva?
+
+Ao adotar esses questionamentos para nortear o atendimento do pedido, será possível assegurar e preservar, simultaneamente: o direito fundamental de acesso à informação; a eficiência administrativa; a proteção de dados e informações sigilosas; e a racionalidade operacional dos órgãos públicos.
+
+Ao deslocar o eixo da análise da “finalidade” para a “natureza da informação”, mantém-se aderência aos princípios estruturantes da LAI e evita-se a criação de filtros subjetivos incompatíveis com o regime de transparência pública.
+
+Nesse sentido, o aprimoramento da gestão institucional da LAI nas instituições públicas de ensino superior passa, necessariamente, pelo fortalecimento das políticas de transparência ativa e dados abertos. Ao disponibilizar proativamente bases de dados institucionais em formatos processáveis, as instituições minimizam o impacto operacional da transparência passiva. Ademais, diante de demandas complexas, cabe incentivar o canal do diálogo e do ajuste voluntário de escopo entre o Serviço de Informações ao Cidadão (SIC) e o pesquisador, permitindo o rebalanceamento entre o fôlego operacional da administração e o avanço da produção científica nacional.
+
+## Dever de apoiar a pesquisa
+
+Existe ainda uma dimensão institucional particularmente relevante quando o debate envolve instituições públicas de ensino superior. Essas instituições ocupam posição singular porque produzem conhecimento científico; fomentam a pesquisa; defendem a liberdade acadêmica; e promovem transparência e circulação do conhecimento.
+
+Nesse contexto, interpretações excessivamente restritivas da LAI podem produzir tensão institucional com os próprios valores historicamente defendidos pela comunidade universitária.
+
+Isso não significa admitir sobrecarga administrativa ilimitada ou tolerar pedidos abusivos. Significa apenas reconhecer que o enfrentamento dos excessos deve ocorrer dentro dos limites legais estabelecidos pela própria LAI, sem criação de restrições baseadas exclusivamente na motivação declarada pelo requerente.
+
+O Acórdão nº 1087/2026 do Tribunal de Contas da União representa importante oportunidade para reflexão institucional sobre os limites operacionais e jurídicos da transparência pública em ambientes acadêmicos. Contudo, sua interpretação não pode resultar em restrições incompatíveis com a Lei de Acesso à Informação.
+
+A LAI permanece como norma central e soberana na disciplina do acesso à informação pública no Brasil. E nela está expressamente estabelecido que pedidos de acesso independem de motivação.
+
+Assim, embora seja legítimo desenvolver mecanismos administrativos capazes de enfrentar excessos, abusos ou demandas desproporcionais, não parece juridicamente adequado transformar a finalidade acadêmica do pedido em critério automático de negativa.
+
+O desafio atual não é restringir o direito de acesso, mas aprimorar sua gestão institucional com equilíbrio, proporcionalidade e fidelidade aos princípios democráticos que fundamentam a transparência pública.

@@ -1,0 +1,28 @@
+# TCU analisa Programa Pé-de-Meia
+
+O TCU analisou representação, com pedido de medida cautelar, sobre possíveis irregularidades no Programa Pé-de-Meia, instituído pela Lei 14.818/2024 e gerido pelo Ministério da Educação (MEC). A política pública é voltada a alunos de baixa renda, com idade entre 14 e 24 anos, oferecendo incentivo financeiro-educacional.
+
+👉 Leia a íntegra da decisão:
+Acórdão 663/2026 - Plenário | TC 005.592/2025-9
+
+## O que foi feito?
+
+O TCU analisou possíveis irregularidades no Programa Pé-de-Meia, que concede incentivo financeiro-educacional a alunos de baixa renda, com idade entre 14 e 24 anos, que integrem famílias inscritas no CadÚnico e que estejam matriculados no ensino médio das redes públicas e das escolas comunitárias conveniadas com o poder público.
+
+## O que o TCU encontrou?
+
+- O número de beneficiários do programa é menor que o de estudantes matriculados em cada município.
+
+- Existem distorções entre os registros do Sistema Gestão Presente (SGP) e o Censo Escolar 2024 em alguns municípios, chegando a variações de até 50% ou 100%. Isso sugere a existência de erros de cadastro.
+
+- Estudantes recebem o benefício sem atender aos requisitos, como CPFs cancelados, irregulares ou até registros de falecimento.
+
+## O que o TCU fez?
+
+- Recomendou que o MEC aperfeiçoe a divulgação de dados, incluindo o total de estudantes do público-alvo e de beneficiários por município.
+
+- Determinou ao MEC que:
+
+-- Suspenda, em até 60 dias, pagamentos e bloqueie valores para beneficiários falecidos entre 2009 e 2023.
+
+-- Verifique casos de renda acima do permitido e, se confirmada a irregularidade, suspenda benefícios e bloqueie os recursos.

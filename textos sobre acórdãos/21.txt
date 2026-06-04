@@ -1,0 +1,35 @@
+# Contas vinculadas em concessões de infraestrutura: TCU aberto à inovação?
+
+As idas e vindas do TCU sobre o uso de contas vinculadas em contratos de concessão
+
+O Tribunal de Contas da União (TCU) tem empreendido esforços para mostrar-se como instância acolhedora e promotora de inovações no setor público, inclusive em relação às contratações públicas. Mas será que o discurso tem correspondido à prática?
+
+Esse é o tema deste quarto artigo da série temática “TCU e controle das contratações públicas”, promovida pelo Observatório do TCU da FGV Direito SP, no qual olharemos para o modo como Tribunal tem controlado inovações em contratações públicas, a partir do caso das contas vinculadas em concessões de infraestrutura.
+
+Contas vinculadas em contratos de concessão podem ser compreendidas, essencialmente, como contas em que são depositados recursos oriundos de tarifas da concessão e de eventuais outorgas pagas pelo concessionário, especificamente destinados a um propósito determinado pelo contrato, notadamente o cumprimento de obrigações a cargo do Poder Concedente, possuindo regras restritivas de acesso e movimentação.
+
+Trata-se de inovação introduzida nas concessões federais em 2018, na 4ª etapa do Programa de Concessões de Rodovias Federais, sob inspiração de práticas internacionais e com a colaboração de diversos atores: Agência Nacional de Transportes Terrestres (ANTT), Ministério dos Transportes, Infra S.A. e Secretaria Especial do Programa de Parcerias de Investimento.
+
+Desde então, ao longo dos últimos anos, o TCU já analisou e aprovou pelo menos 14 projetos de concessão rodoviária com previsão do uso de contas vinculadas, sem impor óbices ou fazer maiores ressalvas a tal inovação.
+
+Contudo, isso mudou quando, alguns anos depois, buscou-se a expansão do uso das contas vinculadas para o setor portuário, com sua inclusão nos projetos de concessão dos portos organizados de São Sebastião/SP e de Itajaí/SC. Nesses casos, o TCU, após analisar os projetos, determinou a exclusão da previsão de contas vinculadas das minutas de contrato (Acórdãos 244 e 245/2023).
+
+O ministro Walton Alencar, relator de ambos os processos, entendeu, em suma, que não existiria respaldo jurídico para que valores devidos pela outorga fossem destinados, por contrato, para conta vinculada, em vez de serem recolhidos à conta única do Tesouro.
+
+Chamou a atenção o fato de que, entre a aprovação dos projetos de concessão rodoviária com previsão de contas vinculadas, e a análise dos referidos projetos de concessão portuária, não houve alteração no cenário normativo, geral ou setorial, apta a justificar a mudança de entendimento pelo TCU. Tampouco houve consideração quanto aos efeitos práticos, positivos ou negativos, da adoção do mecanismo nos diversos projetos de concessão rodoviária até ali já aprovados pelo próprio Tribunal.
+
+Nada obstante, após vedar a utilização de contas vinculadas nas concessões portuárias, o TCU entendeu que seria o caso de entender melhor o referido instrumento. Assim, o tribunal determinou ao corpo técnico que examinasse “o impacto do mecanismo de mitigação de riscos com o emprego de contas vinculadas em desestatizações” (Acórdão 752/2023).
+
+Em cumprimento à determinação foi autuado o processo nº 008.723/2023-0, com a finalidade de analisar especificamente a questão do emprego de contas vinculadas em contratos de concessão. A unidade técnica do TCU chegou a editar uma primeira manifestação, em que sustenta serem de natureza pública os recursos depositados em contas vinculadas a contratos de concessão, mas considera válido o mecanismo, desde que os recursos não sejam utilizados para liquidar obrigações do Poder Concedente em contratos diversos daquele que deu origem aos referidos valores.
+
+Ocorre que, antes da conclusão do referido processo, a discussão ganhou novo fôlego. É que, ao apreciar a Solicitação de Solução Consensual que envolveu o contrato de concessão ferroviária da Malha Sudeste, o ministro Jorge Oliveira, relator do Acórdão 2.186/2025, fez críticas à disposição do acordo que prevê a realização de investimento cruzado por meio do depósito de valores pela concessionária em conta vinculada, para que o Poder Público, em momento posterior, decida onde alocar os recursos.
+
+No modal ferroviário, o art. 25, § 1º, da Lei nº 13.448/2018, previu a possibilidade de se obrigar concessionário de uma malha ferroviária a realizar investimentos em outras malhas, a critério do Poder Concedente. Com base nesse permissivo legal, o TCU já deu aval à realização de investimentos cruzados por meio da previsão de obrigações de fazer – a concessionária assumiu a responsabilidade pela execução da obra.
+
+Mas, no caso do acordo da Malha Sudeste, houve uma inovação, e previu-se a realização do investimento privado por meio da estipulação de uma obrigação de pagar – a concessionária comprometeu-se a depositar o valor em uma conta, cuja destinação seria decidida pelo Poder Concedente em um segundo momento.
+
+Foi decidido pelo TCU, então, que o tema do investimento cruzado também seria estudado com maior profundidade no processo que trata das contas vinculadas – o que levou à ampliação do escopo do referido processo, que segue em tramitação.
+
+ da ressalva, o TCU aprovou o acordo relativo ao contrato de concessão da Malha Sudeste, mantendo a previsão quanto ao investimento cruzado. Nesse sentido, o Tribunal assumiu postura bastante distinta daquela demonstrada no caso do uso de contas vinculadas no setor portuário. Mesmo sentindo necessidade de compreender melhor o mecanismo, o TCU referendou o investimento cruzado por meio de obrigação de pagar no setor ferroviário.
+
+Essa breve análise do histórico recente do tema das contas vinculadas e dos investimentos cruzados no TCU revela que o Tribunal parece não demonstrar preocupação clara com a insegurança jurídica que pode gerar ao agir com elevada discricionariedade na definição do que e quando controlar – inclusive revisitar temas sem que tenha havido alteração relevante no cenário normativo ou fático. Além disso, sugere que o TCU se mostra mais aberto a inovações gestadas no interior do próprio Tribunal – no caso aqui analisado, no ambiente da SECEX Consenso.

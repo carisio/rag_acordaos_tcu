@@ -1,0 +1,24 @@
+# TCU aprova prorrogação do uso de frequências na telefonia móvel
+
+O TCU analisou pedido de prorrogação das autorizações para o uso de frequências de rádio nos serviços de telefonia móvel. As faixas em questão inicialmente tinham sido concedidas à Oi Móvel S.A. e depois foram transferidas para a TIM S.A. Arraste para o lado e saiba mais!
+
+👉 Leia a íntegra da decisão:
+Acórdão 863/2026 – Plenário | TC 007.655/2023-1
+
+## O que foi feito?
+
+O TCU analisou o pedido para prorrogar o uso de frequências de rádio usadas na telefonia móvel (1.800 MHz, 1.900 MHz e 2.100 MHz), atualmente concedidas à empresa TIM S.A. Também foi verificado se o uso dessas faixas estava de acordo com a Lei Geral de Telecomunicações (LGT).
+
+## O que o TCU encontrou?
+
+- Falhas na metodologia da ANatel para avaliar as frequências, como a falta de comparação com o Índice Mínimo de Eficiência (IME).
+
+- Dados não representam todas as áreas de cobertura.
+
+- Uso de informações desatualizadas ou fora do prazo normativo.
+
+- Problemas na análise de áreas com baixa eficiência.
+
+## O que o TCU decidiu?
+
+Como não foram encontradas irregularidades graves ou persistentes, o TCU aprovou a prorrogação da licitação. Apesar disso, o Tribunal fez determinações e recomendações à Anatel para que ela melhore seus processos regulatórios e evite problemas futuros.

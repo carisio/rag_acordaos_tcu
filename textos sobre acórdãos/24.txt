@@ -1,0 +1,73 @@
+# Acórdão do TCU aponta baixa maturidade na governança de dados do governo federal
+
+O Tribunal de Contas da União (TCU) identificou fragilidades estruturais na governança de dados da administração pública federal ao concluir uma auditoria que avaliou o nível de maturidade do uso, gestão e compartilhamento de informações em órgãos estratégicos do governo. O diagnóstico aponta que, apesar do avanço do discurso oficial sobre transformação digital e governo orientado a dados, a gestão das informações no Estado brasileiro ainda se encontra majoritariamente em estágios iniciais ou intermediários de maturidade.
+
+A auditoria avaliou cinco organizações públicas com grande volume de dados e relevância para políticas públicas nacionais: o Instituto Brasileiro de Geografia e Estatística (IBGE), a Agência Nacional de Telecomunicações (Anatel), o Ministério do Meio Ambiente e Mudança do Clima (MMA), o Instituto Nacional do Seguro Social (INSS) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O trabalho também examinou o próprio modelo utilizado pelo governo federal para medir a maturidade da gestão de dados, aplicado pela Secretaria de Governo Digital do Ministério da Gestão e da Inovação em Serviços Públicos.
+
+O relatório alerta que a baixa maturidade em governança de dados representa “risco direto para o funcionamento do Estado”. Segundo o TCU, essa situação pode resultar em “baixa qualidade dos dados governamentais, compartilhamento de dados insuficiente e desconformidade com critérios legais de transparência e proteção de informação sigilosa e de dados pessoais”.
+
+A consequência desse cenário, segundo os auditores, pode afetar a própria capacidade do governo de tomar decisões baseadas em evidências. O documento afirma que essas fragilidades podem levar à “indisponibilidade de informações essenciais para a tomada de decisão pelos gestores públicos, para a prestação de serviços públicos de qualidade e para o controle social”.
+
+## IBGE
+
+Entre os órgãos analisados, o IBGE apresentou o melhor desempenho relativo, sendo classificado com maturidade intermediária em governança de dados. A avaliação considerou que o instituto possui um entendimento consistente da importância da governança de dados e já implementou diversas iniciativas estruturais, como políticas institucionais e mecanismos de catalogação de informações. Mesmo assim, o tribunal identificou lacunas relevantes que impedem o órgão de alcançar níveis mais avançados de maturidade.
+
+Uma das principais fragilidades apontadas está na ausência de métricas robustas para medir o impacto das políticas e práticas adotadas. O relatório registra que “faltam mecanismos sistemáticos para monitorar seu desempenho, avaliar seu impacto nos resultados da instituição e nos serviços prestados à sociedade”.
+
+O TCU também apontou limitações na institucionalização das práticas de governança dentro do próprio IBGE. Embora existam políticas e normas formalizadas, a auditoria identificou dificuldades para demonstrar que essas diretrizes estão plenamente incorporadas ao funcionamento cotidiano da instituição. Segundo os auditores, faltam evidências de que a aplicação das políticas ocorre de forma uniforme em todas as áreas responsáveis pela produção e disseminação das estatísticas oficiais.
+
+Outro ponto destacado no relatório é a ausência de estruturas formais específicas de governança de dados separadas da área de tecnologia da informação, além de lacunas na definição completa de papéis e responsabilidades relacionados à gestão dos ativos de dados.
+
+## Anatel
+
+A Anatel também foi classificada com maturidade intermediária, apresentando desempenho relativamente consistente na dimensão tecnológica, mas ainda com lacunas importantes na estrutura de governança. No questionário aplicado pela Secretaria de Governo Digital, a agência obteve nota 0,621 em gestão de dados, classificação que foi confirmada pela análise independente realizada pelo TCU após exame documental e entrevistas com gestores.
+
+Segundo o relatório, a agência apresenta forte domínio tecnológico e possui infraestrutura de dados relevante para a regulação do setor de telecomunicações. No entanto, o tribunal identificou fragilidades institucionais na organização da governança de dados. Entre os pontos apontados estão lacunas na definição de políticas estruturadas de gestão de dados, fragilidades na gestão do ciclo de vida das informações e limitações na política de dados abertos.
+
+Na avaliação do TCU, o caso da Anatel ilustra uma situação recorrente na administração pública: instituições com capacidade tecnológica significativa, mas que ainda precisam avançar na formalização de processos de governança e na estrutura institucional voltada à gestão estratégica das informações.
+
+## INSS
+
+No caso do Instituto Nacional do Seguro Social, o nível de maturidade foi classificado como inicial. O tribunal concluiu que o grau de governança de dados apresentado pelo INSS é coerente com a realidade observada, caracterizada por práticas ainda limitadas e pouco consistentes.
+
+A auditoria identificou que muitas das iniciativas relacionadas à gestão de dados ainda estão em fase inicial de implementação e que faltam mecanismos institucionais capazes de estruturar uma política abrangente de governança de dados. O relatório aponta que a ausência de processos consolidados dificulta a organização e o aproveitamento do grande volume de informações geradas pelo sistema previdenciário.
+
+## Meio Ambiente
+
+A situação mais crítica entre os órgãos avaliados foi encontrada no Ministério do Meio Ambiente e Mudança do Clima, classificado com nível de maturidade considerado inexpressivo. A auditoria identificou que poucas práticas estruturadas de governança de dados estavam efetivamente implementadas no órgão.
+
+Segundo o TCU, a ausência de estruturas formais, políticas institucionais abrangentes e processos organizados de gestão de dados compromete a capacidade do ministério de utilizar informações de forma integrada na formulação e monitoramento de políticas ambientais.
+
+## BNDES
+
+O BNDES também apresentou nível de maturidade considerado inicial. A auditoria identificou lacunas importantes em praticamente todos os pilares da governança de dados. Entre os principais problemas apontados estão a inexistência de uma política formal de governança de dados, a ausência de comitês institucionais responsáveis pelo tema e a falta de métricas estruturadas para avaliar a qualidade das informações utilizadas nas atividades do banco.
+
+Segundo o relatório, a ausência de processos sistemáticos para monitorar e corrigir problemas de qualidade de dados pode comprometer a confiabilidade das análises utilizadas nas decisões de financiamento e investimento. A auditoria destaca que o modelo de atuação do banco depende diretamente da análise de informações complexas para avaliar riscos, viabilidade econômica de projetos e impacto socioeconômico das operações.
+
+## Autoavaliação
+
+Outro ponto sensível identificado pelo TCU está no próprio sistema utilizado pelo governo federal para medir a maturidade da governança de dados nos órgãos públicos. O tribunal comparou os resultados obtidos pelo modelo de autoavaliação aplicado pela Secretaria de Governo Digital com as evidências coletadas durante a auditoria e identificou divergências relevantes.
+
+Segundo o relatório, o modelo baseado em autoavaliação tende a produzir resultados mais otimistas do que a realidade observada durante as fiscalizações. Em alguns casos, os órgãos declararam níveis elevados de maturidade que não foram confirmados pela análise documental e pelas entrevistas realizadas com gestores.
+
+O tribunal alerta que essa discrepância pode comprometer o diagnóstico real sobre o estágio de maturidade da governança de dados no governo federal. O relatório afirma que o uso de instrumentos inadequados de avaliação pode levar a “medições imprecisas ou incorretas do nível de maturidade de dados das organizações da Administração Pública Federal”.
+
+Segundo o TCU, essa distorção pode dificultar o planejamento de políticas públicas voltadas à transformação digital do Estado. O documento afirma que diagnósticos imprecisos podem comprometer “o planejamento e o direcionamento de ações evolutivas em governança de dados”, atrasando a implementação de melhorias estruturais no setor público.
+
+Para o tribunal, a superação dessas fragilidades depende de uma mudança estrutural na forma como o Estado brasileiro organiza, administra e utiliza seus dados. A auditoria recomenda que os órgãos públicos avancem na criação de estruturas institucionais dedicadas à governança de dados, no fortalecimento da cultura organizacional orientada ao uso estratégico das informações e na adoção de métricas capazes de medir o impacto real das políticas de gestão de dados.
+
+Na avaliação do TCU, sem esses avanços a transformação digital do governo corre o risco de permanecer mais no discurso do que na prática. O relatório reforça que a governança de dados se tornou um elemento central para a eficiência do Estado e para a capacidade do poder público de formular políticas públicas baseadas em informação confiável e transparente.
+
+Ao final da auditoria, o Tribunal de Contas da União aprovou o Acórdão nº 457/2026 – TCU – Plenário, relatado pelo ministro Augusto Nardes, com recomendações formais destinadas aos órgãos auditados e à Secretaria de Governo Digital do Ministério da Gestão e da Inovação em Serviços Públicos. A decisão orienta as instituições a revisar ou desenvolver programas estruturados de governança e gestão de dados alinhados às estratégias institucionais e às boas práticas internacionais consolidadas no framework Data Management Body of Knowledge (DAMA-DMBOK2).
+
+Entre as medidas recomendadas pelo tribunal estão a criação ou fortalecimento de comitês institucionais de governança de dados, responsáveis por coordenar decisões estratégicas sobre o uso e compartilhamento de informações dentro das organizações. O TCU também orientou os órgãos a definirem de forma clara papéis e responsabilidades na gestão de dados, institucionalizando funções e atribuições específicas para garantir a administração adequada desses ativos informacionais.
+
+Outra recomendação relevante foi a criação de unidades ou estruturas formais dedicadas à governança de dados, separadas da área tradicional de tecnologia da informação. Segundo o tribunal, a gestão estratégica dos dados não deve ser tratada apenas como questão tecnológica, mas como elemento central da governança institucional e da formulação de políticas públicas.
+
+O acórdão também orienta os órgãos a adotarem indicadores e métricas capazes de avaliar a qualidade dos dados utilizados nas atividades administrativas e na formulação de políticas públicas. A auditoria identificou que muitas instituições ainda não possuem mecanismos sistemáticos para medir consistência, confiabilidade e integridade das informações utilizadas na gestão pública.
+
+Entre as recomendações também está o fortalecimento da conformidade com a Lei Geral de Proteção de Dados, com a adoção de mecanismos mais robustos de controle e monitoramento do tratamento de dados pessoais. O tribunal ainda recomendou a realização de auditorias periódicas sobre governança de dados e a implantação de processos estruturados de gestão do ciclo de vida das informações, desde a coleta e armazenamento até o compartilhamento e eventual descarte.
+
+O TCU orientou os ainda, que os órgãos desenvolvam mecanismos formais de acompanhamento da maturidade em governança de dados e a implantem processos de gestão de incidentes relacionados ao uso e à proteção de informações. Segundo o relator, essas medidas são essenciais para reduzir riscos institucionais, aumentar a confiabilidade dos dados governamentais e fortalecer a capacidade do Estado de formular políticas públicas baseadas em evidências.
+
+O acórdão prevê o monitoramento das recomendações pelo próprio tribunal em fiscalizações futuras, como forma de verificar a implementação das medidas e acompanhar a evolução da governança de dados na administração pública federal.

@@ -1,0 +1,37 @@
+# O SUS compra, a indústria produz, mas o Estado sustenta a política industrial da saúde?
+
+PDPs tentam reduzir dependência externa, mas ainda enfrentam fragilidades institucionais no Brasil
+
+O Brasil não sofre de escassez de diagnóstico na saúde; ao contrário, acumula, há décadas, evidências sobre sua vulnerabilidade estrutural: a dependência externa de medicamentos, vacinas e insumos estratégicos. As Parcerias para o Desenvolvimento Produtivo (PDPs) emergem como resposta a esse problema, ao mobilizar o poder de compra do SUS para induzir a produção local, a transferência de tecnologia e a internalização de capacidades produtivas.
+
+A proposta dialoga com a tradição estruturalista latino-americana, especialmente com Furtado (1961), ao reconhecer o subdesenvolvimento como expressão de fragilidade produtiva. Essa lógica foi atualizada no conceito de Complexo Econômico-Industrial da Saúde (CEIS).
+
+Do ponto de vista teórico, as PDPs inserem-se em uma linhagem consolidada da economia política do desenvolvimento, aproximando-se de autores como Lall (1992) e, mais recentemente, de Mazzucato (2013), ao reposicionar o Estado como agente ativo na criação de mercados e na indução da inovação.
+
+O problema, no entanto, nunca esteve na formulação, mas na sustentação institucional. O ciclo de expansão, entre 2010 e 2016, evidenciou a capacidade de coordenação estatal, com mais de 100 parcerias firmadas. Ainda assim, a expansão ocorreu sem o devido fortalecimento dos mecanismos de governança, monitoramento e avaliação, gerando um descompasso entre a ambição e a capacidade de execução.
+
+Essa fragilidade é agravada pela base normativa das PDPs, predominantemente ancorada em portarias do Ministério da Saúde (Brasil, 2012, 2014, 2017), como a Portaria 837/2012, a Portaria 2.531/2014 e a Portaria de Consolidação 5/2017. Trata-se de instrumentos operacionais, com menor densidade jurídica e previsibilidade regulatória, o que torna a política mais vulnerável a descontinuidades e questionamentos por órgãos de controle.
+
+As auditorias do Tribunal de Contas da União (TCU) tornaram explícitas essas limitações. Os Acórdãos 1.730/2017 e 730/2017 (TCU, 2017a, 2017b), posteriormente aprofundados pelos Acórdãos 2.015/2023 e 2.172/2023 (TCU, 2023a, 2023b), evidenciaram problemas como critérios pouco transparentes, fragilidades contratuais, falhas na transferência tecnológica e questionamentos quanto à formação de preços.
+
+Esses achados revelam uma dificuldade clássica de políticas industriais em contextos de capacidade estatal intermediária: gerir contratos incompletos em ambientes de alta incerteza. Como aponta Rodrik (2004), o sucesso dessas políticas depende menos da escolha de setores e mais da capacidade institucional de aprendizado, correção de rota e disciplina de desempenho.
+
+Nesse processo, o TCU passou a exercer um papel indireto de coordenação, ao redefinir parâmetros de governança e ao deslocar o debate de uma lógica de expansão para uma agenda orientada à qualidade e à accountability. O resultado é um modelo mais estruturado, porém mais condicionado e menos ágil.
+
+Do ponto de vista contratual, o desafio é evidente. As PDPs envolvem transferência de conhecimento e absorção tecnológica, processos que não podem ser plenamente especificados ex ante. Ao exigir maior precisão na definição de metas e resultados, o controle institucional reduz incertezas, mas também tensiona a flexibilidade necessária ao aprendizado tecnológico.
+
+Há ainda uma tensão econômica relevante. Enquanto a política industrial pressupõe, em determinados momentos, a aceitação de custos mais elevados no curto prazo para viabilizar a formação de capacidade produtiva, o controle externo tende a avaliá-la sob critérios de eficiência imediata. Essa diferença de racionalidade permanece como um dos principais pontos de fricção.
+
+A pandemia da covid-19 reconfigurou esse debate ao evidenciar que a dependência produtiva em saúde é também um problema geopolítico. A concentração global da produção expôs assimetrias estruturais e mostrou que, em momentos de crise, os mercados operam menos como mecanismos de eficiência e mais como arenas de poder. Isso impulsionou a valorização da produção local e regional, com organismos como a Organização Mundial da Saúde e a Organização Pan-Americana da Saúde defendendo a diversificação produtiva e a transferência de tecnologia.
+
+No plano regional, esse movimento reacende o debate sobre a integração produtiva em saúde, inclusive no Mercosul, ao evidenciar os custos da fragmentação produtiva e da baixa coordenação regional.
+
+A retomada das PDPs a partir de 2023, articulada à Nova Indústria Brasil e ao fortalecimento do CEIS, insere-se nesse contexto. O instrumento deixa de ser apenas uma política doméstica e passa a integrar uma estratégia mais ampla de reconstrução de capacidades produtivas com projeção internacional.
+
+Os potenciais ganhos são claros: segurança de abastecimento, aprendizado tecnológico, coordenação entre políticas industrial e de saúde e maior resiliência em crises. No entanto, persistem riscos relevantes: baixa execução, instabilidade institucional, limitações de financiamento e desafios regulatórios.
+
+Nesse cenário, as PDPs passam por uma transição: de instrumento de escala, voltado à expansão, tendem a se consolidar como instrumento de precisão, mais seletivo e orientado a resultados. Isso pode aumentar sua efetividade, mas reduz sua capacidade de indução produtiva em larga escala.
+
+No fundo, o debate sobre as PDPs não se esgota na técnica: trata-se, em última análise, de uma escolha política. Trata-se de decidir que tipo de Estado o Brasil pretende construir: um Estado capaz de transformar demanda em capacidade produtiva e de sustentar políticas de longo prazo, ou um Estado que oscila entre ambição e retração, produzindo diagnósticos corretos, mas resultados inconsistentes.
+
+A resposta, neste momento, já não depende de evidências, mas de decisão.

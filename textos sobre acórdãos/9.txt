@@ -1,0 +1,53 @@
+# Planejamento inconsistente e falhas de governança nas contratações públicas
+
+A implementação da Lei nº 14.133/2021 tem evidenciado um desafio recorrente na administração pública, especialmente em estruturas administrativas reduzidas: a dificuldade de observância efetiva da segregação de funções no âmbito das contratações públicas.
+
+O Acórdão nº 6.389/2025 do TCU (Tribunal de Contas da União), ao analisar irregularidades em pregão eletrônico promovido pela Superintendência Federal de Agricultura no Estado do Rio de Janeiro, revela um cenário que, embora ocorrido em órgão federal, reproduz-se cotidianamente nas câmaras municipais: a concentração de atribuições em um único agente responsável tanto pelo planejamento quanto pela condução do certame.
+
+Este artigo analisa dois eixos centrais do julgado: as contradições entre o Estudo Técnico Preliminar (ETP) e o Termo de Referência (TR) e a designação de pregoeiro em desacordo com a Lei nº 14.133/2021, estabelecendo um paralelo com a realidade das câmaras municipais de pequeno porte.
+
+O acórdão proferido pelo TCU em novembro de 2025 identificou inconsistências relevantes entre o estudo técnico preliminar e o termo de referência, notadamente quanto ao quantitativo do objeto, ora indicado como sete postos de vigilância, ora 14 postos, ora 26 vigilantes.
+
+Tal incongruência não se limita a erro material, mas revela falha estrutural no planejamento da contratação. O TCU apontou que houve confusão entre a unidade de medida “posto de trabalho” e “quantidade de vigilantes”, o que resultou em erro na estimativa de custos e na definição do valor global da contratação.
+
+## Violação à Lei nº 14.133/2021
+
+Sob o enfoque jurídico, a Corte de Contas reconheceu que as inconsistências identificadas configuram violação aos princípios previstos no artigo 5º da Lei nº 14.133/2021, notadamente aqueles relacionados à vinculação ao instrumento convocatório, ao julgamento objetivo e à transparência. É cediço que a incoerência entre os documentos da fase interna compromete a clareza das regras do certame, gerando insegurança na formulação das propostas e dificultando a atuação objetiva da Administração no momento do julgamento.
+
+Contudo, o ponto mais relevante para análise crítica reside na causa dessa inconsistência. O próprio acórdão indica que os equívocos e incoerências identificados nos documentos preparatórios — especialmente o erro na estimativa de custos — decorrem de falha de governança, notadamente da ausência de revisão por equipe diversa.
+
+Esse aspecto é central para a compreensão do problema nas câmaras municipais, pois, em estruturas administrativas reduzidas, é comum que o mesmo servidor seja responsável pela elaboração do estudo técnico preliminar, pela redação do termo de referência e pela condução da fase externa da licitação.
+
+Esse arranjo institucional, embora frequentemente justificado pela limitação de pessoal, compromete a qualidade do planejamento, vez que a inexistência de revisão independente reduz drasticamente a capacidade de identificação de inconsistências, erros e falhas, tornando mais provável que erros metodológicos, como o verificado no caso concreto, passem despercebidos.
+
+Assim, a contradição entre ETP e TR deve ser compreendida não como falha isolada, mas como consequência direta da ausência de segregação de funções e indireta de falha de governança das contratações públicas.
+
+## Agente vinculado à administração é garantia de responsabilidade
+
+O segundo ponto relevante do acórdão refere-se à designação do agente responsável pela condução do pregão. O TCU constatou que o servidor envolvido não integrava o quadro efetivo da administração, além de ter participado da elaboração dos documentos da fase preparatória. Tal situação foi considerada irregular, com fundamento nos artigos 6º, inciso LX, e 8º da Lei nº 14.133/2021, bem como na jurisprudência consolidada do Tribunal, especialmente no Acórdão nº 1.917/2024 — Plenário.
+
+A exigência de que a condução do certame seja realizada por agente público formalmente vinculado à administração não se trata de formalismo excessivo, mas de mecanismo de garantia da responsabilidade funcional, da impessoalidade e do controle institucional. No caso analisado, a irregularidade foi agravada pelo fato de que o edital previa o envio de pedidos de impugnação e esclarecimentos diretamente ao e-mail pessoal do agente responsável, o que fragiliza a transparência e compromete a rastreabilidade dos atos administrativos.
+
+Esse cenário encontra paralelo direto nas câmaras municipais, onde, em razão da limitação de recursos humanos, é comum a designação de agentes sem vínculo efetivo ou a concentração de múltiplas funções em um único servidor ou colaborador.
+
+Embora compreensível sob o ponto de vista fático, tal prática não se sustenta juridicamente à luz da Lei nº 14.133/2021. A acumulação de funções críticas em um único agente, especialmente quando não integrante do quadro efetivo, configura afronta não apenas à legislação, mas também aos princípios da impessoalidade e da objetividade do julgamento.
+
+## Impacto no planejamento e na qualidade do serviço
+
+Um olhar especializado e aprofundado do acórdão permite extrair uma conclusão relevante: a falha de governança não apenas compromete a regularidade formal do procedimento, mas impacta diretamente a qualidade técnica do planejamento e, em última análise, a própria qualidade do serviço público que justificou aquela contratação, com violação direta ao princípio da efetividade da administração pública, insculpido no artigo 37 da Constituição.
+
+Ao concentrar em um único agente as funções de planejamento — que envolvem a elaboração do estudo técnico preliminar e do termo de referência —, bem como a instrução processual e a condução do certame, a administração acaba por eliminar mecanismos internos de controle e revisão, que são essenciais para a detecção de erros. Nesse contexto, a ausência de segregação de funções contribui diretamente para a manutenção de inconsistências nos documentos preparatórios, como reconhecido pelo próprio TCU.
+
+Tal constatação é especialmente relevante para as câmaras municipais, onde a limitação de pessoal não pode servir de justificativa para a supressão de controles mínimos. Ainda que não se comprove prejuízo material imediato, como no caso analisado, a estrutura adotada fragiliza a legitimidade do processo licitatório e amplia os riscos de irregularidades futuras.
+
+Apesar de reconhecer as irregularidades, o TCU optou por não anular o certame, em razão da ausência de prejuízo material e da necessidade de continuidade do serviço. Ainda assim, determinou a expedição de ciência à unidade jurisdicionada, com orientação para adoção de medidas corretivas. A decisão enfatiza a necessidade de que, em futuras contratações, as funções de planejamento, instrução e condução do certame sejam exercidas por agentes distintos, com a devida observância aos artigos 5º, 6º, inciso LX, 7º, §1º, e 8º da Lei nº 14.133/2021, bem como em conformidade com as diretrizes estabelecidas na jurisprudência do TCU, especialmente no Acórdão nº 1.917/2024 — Plenário.
+
+Essa orientação possui especial relevância para as câmaras municipais, que devem promover ajustes organizacionais mínimos para garantir a segregação de funções, ainda que por meio de soluções adaptadas à sua realidade, como a distribuição de tarefas entre setores ou a formalização de instâncias de revisão, ainda que amparadas ou suplementadas por equipes ou profissionais terceirizados e externos à administração.
+
+## Deficiência nas contratações públicas
+
+A análise do Acórdão nº 6.389/2025 evidencia que as falhas identificadas — contradições entre ETP e TR e designação inadequada de pregoeiro — possuem uma causa comum: a deficiência na estrutura de governança das contratações públicas.
+
+No contexto das câmaras municipais, esse problema se manifesta de forma recorrente, em razão da limitação de equipes e da prática de concentração de funções em um único agente. Contudo, a Lei nº 14.133/2021 impõe um modelo organizacional que exige a separação mínima entre planejamento e execução, como condição para a regularidade do procedimento.
+
+Assim, ainda que a ausência de prejuízo material possa afastar a anulação do certame, não afasta a irregularidade nem a necessidade de correção estrutural. A efetividade do novo regime de contratações depende, portanto, da superação de práticas administrativas consolidadas e da adoção de mecanismos mínimos de governança, capazes de assegurar a qualidade do planejamento, a objetividade do julgamento e a legitimidade do processo licitatório, sempre visando o interesse público, fim último e ontológico da administração pública.
